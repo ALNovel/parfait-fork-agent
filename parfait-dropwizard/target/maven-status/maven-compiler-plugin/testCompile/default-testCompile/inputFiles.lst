@@ -1,0 +1,10 @@
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/test/java/io/pcp/parfait/dropwizard/ParfaitReporterTest.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/test/java/io/pcp/parfait/dropwizard/metricadapters/TimerAdapterTest.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/test/java/io/pcp/parfait/dropwizard/metricadapters/GaugeAdapterTest.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/test/java/io/pcp/parfait/dropwizard/metricadapters/HistogramAdapterTest.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/test/java/io/pcp/parfait/dropwizard/NonSelfRegisteringSettableValueTest.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/test/java/io/pcp/parfait/dropwizard/metricadapters/MeteredAdapterTest.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/test/java/io/pcp/parfait/dropwizard/ParfaitReporterFactoryTest.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/test/java/io/pcp/parfait/dropwizard/MetricAdapterFactoryImplTest.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/test/java/io/pcp/parfait/dropwizard/metricadapters/CountingAdapterTest.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/test/java/io/pcp/parfait/dropwizard/metricadapters/SamplingAdapterTest.java

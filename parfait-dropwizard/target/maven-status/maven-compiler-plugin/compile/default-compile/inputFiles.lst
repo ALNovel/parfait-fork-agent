@@ -1,0 +1,17 @@
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/NonSelfRegisteringSettableValue.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/metricadapters/MeteredAdapter.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/metricadapters/SamplingAdapter.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/metricadapters/TimerAdapter.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/ParfaitReporter.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/metricadapters/HistogramAdapter.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/MetricAdapterFactory.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/MetricDescriptorLookup.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/DefaultMetricNameTranslator.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/ParfaitReporterFactory.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/MetricAdapterFactoryImpl.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/DefaultMetricDescriptorLookup.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/MetricAdapter.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/metricadapters/CountingAdapter.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/MetricDescriptor.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/metricadapters/GaugeAdapter.java
+/Users/vn51qk8/IdeaProjects/d-graph/hackathon/parfait-fork/parfait-dropwizard/src/main/java/io/pcp/parfait/dropwizard/MetricNameTranslator.java

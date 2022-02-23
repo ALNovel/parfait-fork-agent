@@ -1,0 +1,11 @@
+io/pcp/parfait/spring/timing/BeanPredicates.class
+io/pcp/parfait/spring/AdviceNotifier.class
+io/pcp/parfait/spring/timing/BeanPredicates$1.class
+io/pcp/parfait/spring/timing/SpringEventTimerInjector.class
+io/pcp/parfait/spring/SelfStartingMonitoringView.class
+io/pcp/parfait/spring/timing/BeanSpecification.class
+io/pcp/parfait/spring/AdvisedAware.class
+io/pcp/parfait/spring/MonitoringAspect.class
+io/pcp/parfait/spring/Profiled.class
+io/pcp/parfait/spring/MonitoringAspect$DummyTimeable.class
+io/pcp/parfait/spring/MonitoringAspect$1.class

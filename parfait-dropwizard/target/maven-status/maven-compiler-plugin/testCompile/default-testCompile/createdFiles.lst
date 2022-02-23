@@ -1,0 +1,10 @@
+io/pcp/parfait/dropwizard/metricadapters/HistogramAdapterTest.class
+io/pcp/parfait/dropwizard/metricadapters/GaugeAdapterTest.class
+io/pcp/parfait/dropwizard/NonSelfRegisteringSettableValueTest.class
+io/pcp/parfait/dropwizard/metricadapters/SamplingAdapterTest.class
+io/pcp/parfait/dropwizard/ParfaitReporterFactoryTest.class
+io/pcp/parfait/dropwizard/metricadapters/CountingAdapterTest.class
+io/pcp/parfait/dropwizard/metricadapters/TimerAdapterTest.class
+io/pcp/parfait/dropwizard/metricadapters/MeteredAdapterTest.class
+io/pcp/parfait/dropwizard/ParfaitReporterTest.class
+io/pcp/parfait/dropwizard/MetricAdapterFactoryImplTest.class

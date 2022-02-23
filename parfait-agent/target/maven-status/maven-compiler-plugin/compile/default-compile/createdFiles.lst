@@ -1,0 +1,10 @@
+io/pcp/parfait/SpecificationAdapter.class
+io/pcp/parfait/MBeanServerException.class
+io/pcp/parfait/AgentMonitoringView$1.class
+io/pcp/parfait/MonitoringViewProperties.class
+io/pcp/parfait/SpecificationException.class
+io/pcp/parfait/Specification.class
+io/pcp/parfait/AgentMonitoringView.class
+io/pcp/parfait/JmxException.class
+io/pcp/parfait/ParfaitAgent.class
+io/pcp/parfait/JmxUtilities.class
