@@ -20,35 +20,15 @@ import com.google.common.base.Preconditions;
 import com.google.common.base.Splitter;
 import com.google.common.base.Strings;
 import com.google.common.base.Supplier;
-
-import io.pcp.parfait.DynamicMonitoringView;
 import io.pcp.parfait.dxm.IdentifierSourceSet;
 import io.pcp.parfait.dxm.PcpMmvWriter;
-import io.pcp.parfait.Monitorable;
-import io.pcp.parfait.MonitorableRegistry;
-import io.pcp.parfait.MonitoredConstant;
-import io.pcp.parfait.MonitoredValue;
-import io.pcp.parfait.PollingMonitoredValue;
 import io.pcp.parfait.pcp.PcpMonitorBridge;
-import io.pcp.parfait.ValueSemantics;
+import org.apache.log4j.Logger;
 
+import javax.management.*;
+import javax.management.openmbean.CompositeData;
 import java.io.IOException;
 import java.util.EnumSet;
-
-import javax.management.AttributeNotFoundException;
-import javax.management.InstanceNotFoundException;
-import javax.management.IntrospectionException;
-import javax.management.MBeanAttributeInfo;
-import javax.management.MBeanException;
-import javax.management.MBeanInfo;
-import javax.management.MBeanServerConnection;
-import javax.management.MalformedObjectNameException;
-import javax.management.ObjectName;
-import javax.management.ReflectionException;
-import javax.management.openmbean.CompositeData;
-import javax.measure.Unit;
-
-import org.apache.log4j.Logger;
 
 
 class AgentMonitoringView {

@@ -277,18 +277,19 @@ public class PcpMmvWriter implements PcpWriter {
     public final void addMetric(MetricName name, Semantics semantics, Unit<?> unit, Object initialValue) {
         TypeHandler<?> handler = typeHandlers.get(initialValue.getClass());
         if (handler == null) {
-            throw new IllegalArgumentException("No default handler registered for type "
+            System.out.println("No default handler registered for type "
                     + initialValue.getClass());
+        } else {
+            addMetricInfo(name, semantics, unit, initialValue, handler);
         }
-        addMetricInfo(name, semantics, unit, initialValue, handler);
-
     }
 
     public final <T> void addMetric(MetricName name, Semantics semantics, Unit<?> unit, T initialValue, TypeHandler<T> pcpType) {
         if (pcpType == null) {
-            throw new IllegalArgumentException("PCP Type handler must not be null");
+            System.out.println("PCP Type handler must not be null");
+        } else {
+            addMetricInfo(name, semantics, unit, initialValue, pcpType);
         }
-        addMetricInfo(name, semantics, unit, initialValue, pcpType);
     }
 
     /*
